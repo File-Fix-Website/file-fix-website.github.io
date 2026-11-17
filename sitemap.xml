@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
     <url>
-        <loc>https://eclipse7laferari-boop.github.io/FileFix/</loc>
+        <loc>https://file-fix-website.github.io/</loc>
     </url>
+
     <url>
-        <loc>https://eclipse7laferari-boop.github.io/FileFix/image-compressor.html</loc>
+        <loc>https://file-fix-website.github.io/image-compressor.html</loc>
     </url>
+
     <url>
-        <loc>https://eclipse7laferari-boop.github.io/FileFix/about.html</loc>
+        <loc>https://file-fix-website.github.io/about.html</loc>
     </url>
+
     <url>
-        <loc>https://eclipse7laferari-boop.github.io/FileFix/privacy-policy.html</loc>
+        <loc>https://file-fix-website.github.io/privacy-policy.html</loc>
     </url>
+
     <url>
-        <loc>https://eclipse7laferari-boop.github.io/FileFix/terms-of-service.html</loc>
+        <loc>https://file-fix-website.github.io/terms-of-service.html</loc>
     </url>
+
 </urlset>
