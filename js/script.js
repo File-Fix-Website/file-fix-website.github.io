@@ -58,6 +58,11 @@ toolCards.forEach(card => {
             return;
         }
 
+        if (toolName === "Image Resizer") {
+            window.location.href = "image-resizer.html";
+            return;
+        }
+
         alert(toolName + " is coming soon!");
 
     });
